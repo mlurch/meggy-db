@@ -1,5 +1,3 @@
 <template>
-  <div>
-    what up bro
-  </div>
+   <div>what up bro</div>
 </template>
