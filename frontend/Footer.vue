@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-   <div class="absolute bottom-0 h-50 w-screen bg-pink-400 p-4">
+   <div class="bg-dark-melon absolute bottom-0 h-40 w-screen p-4 shadow-lg">
       Feet hehehe
    </div>
 </template>

@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-   <div class="absolute h-10 w-screen bg-pink-500 p-4">Nav bro</div>
+   <div class="bg-dusty-blue absolute h-10 w-screen p-4 shadow-lg">Nav bro</div>
 </template>
 
 <style scoped></style>
